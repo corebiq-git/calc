@@ -1,0 +1,6 @@
+{
+  "name": "corbiQ Calculator",
+  "description": "A responsive Google-style Progressive Web App calculator with standard, scientific, and unit conversion modes, tactile audio-haptic feedback, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
